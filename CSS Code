@@ -219,7 +219,7 @@ div.favorite.module {
   left: 0;
   right: 0;
   bottom: 0;
-  transform: translateY(16px);
+  transform: translateY(18px);
   border-radius: 10px;
   background: rgba(8, 8, 10, 0.7);
   text-align: center;
